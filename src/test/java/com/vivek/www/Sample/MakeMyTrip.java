@@ -26,6 +26,7 @@ public static WebDriver driver=null;
 		switchBackToOldWindow();
 		driver.close();
 		driver.quit();
+		//test
 	}
 	
 	public static void switchToNewWindow() {
